@@ -1,0 +1,14 @@
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\Exercicio1.AssemblyInfoInputs.cache
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\Exercicio1.AssemblyInfo.cs
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\Exercicio1.csproj.CoreCompileInputs.cache
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\bin\Debug\net8.0\Exercicio1.exe
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\bin\Debug\net8.0\Exercicio1.deps.json
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\bin\Debug\net8.0\Exercicio1.runtimeconfig.json
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\bin\Debug\net8.0\Exercicio1.dll
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\bin\Debug\net8.0\Exercicio1.pdb
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\Exercicio1.dll
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\refint\Exercicio1.dll
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\Exercicio1.pdb
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\Exercicio1.genruntimeconfig.cache
+D:\Atividade_16092024_OtavioMartins\Atividade_16092024_OtavioMartins\obj\Debug\net8.0\ref\Exercicio1.dll

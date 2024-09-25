@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Atividade_16092024_OtavioMartins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15936965-97A8-42D8-933A-87E5702C58AB}|Exercicio5\\Exercicio5.csproj|e:\\atividade_16092024_otaviomartins\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15936965-97A8-42D8-933A-87E5702C58AB}|Exercicio5\\Exercicio5.csproj|solutionrelative:exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15936965-97A8-42D8-933A-87E5702C58AB}|Exercicio5\\Exercicio5.csproj|e:\\atividade_16092024_otaviomartins\\exercicio5\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15936965-97A8-42D8-933A-87E5702C58AB}|Exercicio5\\Exercicio5.csproj|solutionrelative:exercicio5\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D8C1E1-0A46-43D2-A52A-9FF8ADBCAC89}|Exercicio2\\Exercicio2.csproj|e:\\atividade_16092024_otaviomartins\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D8C1E1-0A46-43D2-A52A-9FF8ADBCAC89}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9597817-A328-4705-B07A-204D19F52110}|Exercicio3\\Exercicio3.csproj|e:\\atividade_16092024_otaviomartins\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9597817-A328-4705-B07A-204D19F52110}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69046746-5686-48D6-A0E9-B9083EA7D822}|Exercicio 4\\Exercicio 4.csproj|e:\\atividade_16092024_otaviomartins\\exercicio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69046746-5686-48D6-A0E9-B9083EA7D822}|Exercicio 4\\Exercicio 4.csproj|solutionrelative:exercicio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "E:\\Atividade_16092024_OtavioMartins\\Exercicio5\\Produto.cs",
+              "RelativeDocumentMoniker": "Exercicio5\\Produto.cs",
+              "ToolTip": "E:\\Atividade_16092024_OtavioMartins\\Exercicio5\\Produto.cs",
+              "RelativeToolTip": "Exercicio5\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:59:43.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Atividade_16092024_OtavioMartins\\Exercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio5\\Program.cs",
+              "ToolTip": "E:\\Atividade_16092024_OtavioMartins\\Exercicio5\\Program.cs",
+              "RelativeToolTip": "Exercicio5\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:59:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Atividade_16092024_OtavioMartins\\Exercicio 4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 4\\Program.cs",
+              "ToolTip": "E:\\Atividade_16092024_OtavioMartins\\Exercicio 4\\Program.cs",
+              "RelativeToolTip": "Exercicio 4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:42:44.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Atividade_16092024_OtavioMartins\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "E:\\Atividade_16092024_OtavioMartins\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:31:01.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Atividade_16092024_OtavioMartins\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "E:\\Atividade_16092024_OtavioMartins\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:20:50.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

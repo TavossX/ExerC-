@@ -1,0 +1,14 @@
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\bin\Debug\net8.0\Exercicio 4.exe
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\bin\Debug\net8.0\Exercicio 4.deps.json
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\bin\Debug\net8.0\Exercicio 4.runtimeconfig.json
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\bin\Debug\net8.0\Exercicio 4.dll
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\bin\Debug\net8.0\Exercicio 4.pdb
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\Exercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\Exercicio 4.AssemblyInfoInputs.cache
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\Exercicio 4.AssemblyInfo.cs
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\Exercicio 4.csproj.CoreCompileInputs.cache
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\Exercicio 4.dll
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\refint\Exercicio 4.dll
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\Exercicio 4.pdb
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\Exercicio 4.genruntimeconfig.cache
+E:\Atividade_16092024_OtavioMartins\Exercicio 4\obj\Debug\net8.0\ref\Exercicio 4.dll

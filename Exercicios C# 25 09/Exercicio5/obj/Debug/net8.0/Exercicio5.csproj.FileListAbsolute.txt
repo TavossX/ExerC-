@@ -1,0 +1,14 @@
+E:\Atividade_16092024_OtavioMartins\Exercicio5\bin\Debug\net8.0\Exercicio5.exe
+E:\Atividade_16092024_OtavioMartins\Exercicio5\bin\Debug\net8.0\Exercicio5.deps.json
+E:\Atividade_16092024_OtavioMartins\Exercicio5\bin\Debug\net8.0\Exercicio5.runtimeconfig.json
+E:\Atividade_16092024_OtavioMartins\Exercicio5\bin\Debug\net8.0\Exercicio5.dll
+E:\Atividade_16092024_OtavioMartins\Exercicio5\bin\Debug\net8.0\Exercicio5.pdb
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\Exercicio5.AssemblyInfoInputs.cache
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\Exercicio5.AssemblyInfo.cs
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\Exercicio5.csproj.CoreCompileInputs.cache
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\Exercicio5.dll
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\refint\Exercicio5.dll
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\Exercicio5.pdb
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\Exercicio5.genruntimeconfig.cache
+E:\Atividade_16092024_OtavioMartins\Exercicio5\obj\Debug\net8.0\ref\Exercicio5.dll
